@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <ctype.h>
 /**
- *main - This Program to print alphabet letters except q and e followed by new line
+ *main - This print alphabet letters except q and e followed by new line
  *
  *Return: return 0
  */
