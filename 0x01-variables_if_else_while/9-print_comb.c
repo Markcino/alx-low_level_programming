@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <ctype.h>
 /**
- *main - The Program Prints all single digits with , and space followed by new line
+ *main - This Prints all single digits with , and space followed by new line
  *
  *Return: returns 0
  */
