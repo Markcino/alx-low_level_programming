@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <ctype.h>
 /**
- *main - Tjis Program to print alphabet letters in all cases followed by new line
+ *main - This print alphabet letters in all cases followed by new line
  *
  *Return: return 0
  */
